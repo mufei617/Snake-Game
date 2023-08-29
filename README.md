@@ -1,4 +1,4 @@
-# mufei617
+# snake game
 project 30%
 1.I would like to make a game about snake.
 2.the player need to control the snake to eat food.
